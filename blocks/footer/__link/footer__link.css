@@ -5,11 +5,11 @@
   text-decoration: none;
   color: white;
   font-weight: 400;
+  transition: 0.3s;
 }
 
 .footer__link:hover {
   opacity: 0.3;
-  transition: 0.3s;
 }
 
 @media screen and (max-width: 767px) {
